@@ -1,0 +1,3 @@
+<?
+    phpecho"HelloWorld!";
+?>
